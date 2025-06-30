@@ -1,0 +1,12 @@
+# Ignore Tableau temp or backup files
+*.bak
+*.tmp
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore cache or hidden folders
+.cache/
+*.swp
